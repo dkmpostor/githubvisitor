@@ -2,7 +2,7 @@
 
 # How to use :
 
-1. git clone https://github.com/dkmpostor/gbvisitor
+1. git clone https://github.com/dkmpostor/githubvisitor
 2. cd gbvisitor
 3. npm install
 4. node index.js
